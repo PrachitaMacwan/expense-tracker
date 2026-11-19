@@ -1,0 +1,19 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# SQLite Database (optional - keep if you want fresh db on deploy)
+*.db-journal
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# OS generated files
+Thumbs.db
+Desktop.ini
+.DS_Store
